@@ -4,18 +4,27 @@
 
 - [Deep Learning Foundations and Concepts](https://www.bishopbook.com/)
 
+## Papers
+
+- "Sparks of Artificial General Intelligence Early experiments with GPT-4"
+
 ## Videos
 
 - [Prof. Chris Bishop's NEW Deep Learning Textbook!](https://www.youtube.com/watch?v=kuvFoXzTK3E)
+
+## People
+
+- Chris Bishop, professor
+- [Geoffrey Hinton, computer scientist and cognitive psychologist](https://www.cs.toronto.edu/~hinton/nntut.html)
 
 ### Notes
 
 - Neural Networks
 - Symbolic Reasoning
-- "Connectionism"
+- "Connectionism", fine grained neural nets
 - Probability Theory
 - Bayesian Theory, point estimates
-- Stochastic Gradient Descent
+- Stochastic Gradient Descent, Stochastic Parrot, Hallucinations
 - The Bayesian paradigm
 - "No free lunch" theorem
 - Large Language Models
