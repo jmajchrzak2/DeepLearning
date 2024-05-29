@@ -42,3 +42,5 @@ GPT4 out performs the specialist models. The general lesson, when you have a lar
 It's not a good use of GPT to multiple two numbers.
 
 Large Language Models are good as an interface. "A copilot for the scientists."
+
+Start at 35:40.
