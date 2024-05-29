@@ -14,7 +14,7 @@
 
 ## People
 
-- Chris Bishop, professor
+- [Chris Bishop, professor](https://www.microsoft.com/en-us/research/people/cmbishop/)
 - [Geoffrey Hinton, computer scientist and cognitive psychologist](https://www.cs.toronto.edu/~hinton/nntut.html)
 
 ### Notes
@@ -29,6 +29,7 @@
 - "No free lunch" theorem
 - Large Language Models
 - Turing Machines
+- DiVinci Resolve
 
 First book: Neural Networks for Pattern Recognition
 
