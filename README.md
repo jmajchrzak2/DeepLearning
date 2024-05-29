@@ -8,6 +8,8 @@
 
 - [Prof. Chris Bishop's NEW Deep Learning Textbook!](https://www.youtube.com/watch?v=kuvFoXzTK3E)
 
+### Notes
+
 - Neural Networks
 - Symbolic Reasoning
 - "Connectionism"
